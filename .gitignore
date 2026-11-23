@@ -1,0 +1,18 @@
+# Notebooks / Python
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Course datasets are not redistributed here
+datasets/
+/datasets/
+*.csv
+*.tsv
+*.xlsx
